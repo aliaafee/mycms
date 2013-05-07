@@ -1,0 +1,237 @@
+body {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin: 0;
+}
+
+.hidden {
+	display: none;
+}
+
+img {
+	border: none;
+}
+
+/* container for everything */
+#main {
+	padding: 0;
+}
+
+/* head */
+#head {
+
+}
+
+/* sitetitle */
+#site-title {
+
+}
+
+#site-title a {
+	text-decoration: none;
+	color: black;
+	text-align: center;
+	border-bottom: solid 1px black;
+	width: 100%;
+	display: block;
+}
+
+/*search box*/
+#search-box {
+	display: none;
+}
+
+#search-box form {
+	display: none;
+}
+
+#search-button {
+	display: none;
+}
+
+#search-textbox {
+	display: none;
+}
+/* search results */
+div.search-result {
+	margin-bottom: 10px;
+}
+
+div.search-result div.breadcrumbs {
+	margin-left: 0px;
+}
+
+div.search-result div.result-body {
+	margin-left: 0px;
+}
+
+/*homepage*/
+#home-about-bar {
+
+}
+
+#home-sidebar h1 {
+
+}
+
+#home-sidebar p {
+
+}
+
+#home-body {
+
+}
+
+#home-body-top {
+
+}
+
+/* menu */
+#grey-line {
+	display: none;
+}
+#menu-bar {
+	display: none;
+}
+#menu {
+	display: none;
+}
+
+#menu > li {
+	display: none;
+}
+
+#menu li {
+	display: none;
+}
+
+#menu li.selected a {
+	display: none;
+}
+
+#menu li a {
+	display: none;
+}
+
+#menu li a:hover {
+	display: none;
+}
+
+#menu ul {
+	display: none;
+}
+
+#menu ul li { 
+	display: none;
+}
+
+#menu ul li a {
+	display: none;
+}
+
+#menu ul li a:hover {
+	display: none;
+}
+
+#menu ul ul { 
+	display: none;
+}
+
+/* breadcrumbs */
+
+#breadcrumbs, .breadcrumbs {
+	display: none;
+}
+
+#breadcrumbs a, .breadcrumbs a {
+	display: none;
+}
+
+/* sidebar */
+
+#sidebar {
+	display: none;
+}
+
+#sidebar h4 {
+	display: none;
+}
+
+#sidebar ul {
+	display: none;
+}
+
+#sidebar ul ul {
+	display: none;
+}
+
+#sidebar-menu a {
+
+}
+
+#sidebar-menu ul a {
+	display: none;
+}
+
+#sidebar-menu ul ul a {
+	display: none;
+}
+
+#sidebar-menu ul ul ul a {
+	display: none;
+}
+
+#sidebar-menu li {
+	display: none;
+}
+
+#sidebar-menu a {
+	display: none;
+}
+
+#sidebar-menu li.selected {
+	display: none;
+}
+
+/* body */
+
+#actual-text {
+
+}
+
+#body {
+
+}
+
+h1{
+	margin-top: 10px;
+	margin-bottom: 25px;
+	font-size: 200%;
+	font-family: Georgia;
+}
+
+h2{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 140%;
+	font-family: Georgia;
+}
+
+h3{
+	margin-top: 5px;
+	margin-bottom: 5px;
+	color: #1d417c;
+	font-size: 120%;
+	font-family: Georgia;
+}
+
+p{
+}
+
+/* footer */
+
+#foot {
+	border-top: solid 1px black;
+}
+
+

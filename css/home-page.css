@@ -1,0 +1,30 @@
+#home-about-bar {
+	float: left;
+	width: 160px;
+	height: 360px;
+	/*border: solid 1px black;*/
+	padding: 20px;
+	
+}
+
+#home-about-bar h1 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	margin-bottom: 0px;
+	margin-top: 10px;
+}
+
+#home-about-bar p {
+	margin-top: 0px;
+}
+
+#home-body {
+	border: solid 1px black;
+	margin-left: 200px;
+	height: 400px;
+}
+
+#home-news-big {
+	border: solid 1px black;
+	height: 200px;
+}

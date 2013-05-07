@@ -1,0 +1,9 @@
+<span id="search-box">
+	<form name="{form-name}" method="{method}" action="{action}">
+		<input id="search-textbox" name="{textbox-name}" type="text" value="{search-query}"/>
+		<a id="search-button" onClick="if($('search-textbox').value!=''){document.{form-name}.submit();}else{alert('Enter a search query')}" src="{template-path}/images/find.png" value="" />
+			<input type="submit" class="hidden" value="Search" />
+		</a>
+	</form>
+</span>
+

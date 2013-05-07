@@ -1,0 +1,70 @@
+#edit {
+	background: white;
+}
+
+#toolbox {
+	border-bottom: solid 1px black; 
+	background-color: gray;
+	height: 30px;
+}
+
+#toolbox .seperator {
+	display: block;
+	float: left;
+	border: solid 1px silver;
+	width: 0px;
+	height: 18px;
+	margin: 3px;
+}
+
+#toolbox input {
+	display: block;
+	float: left;
+	text-decoration: none;
+	padding: 0px;
+	border: solid 1px gray;
+	width: 25px;
+	height: 25px;
+	margin: 3px;
+	cursor: default;
+}
+
+#toolbox a {
+	display: block;
+	float: left;
+	text-decoration: none;
+	padding: 2px;
+	border: solid 1px gray;
+	width: 18px;
+	height: 18px;
+	margin: 3px;
+	cursor: default;
+}
+
+#toolbox a:hover {
+	border: solid 1px silver;
+	background-color: #999999;
+}
+
+#status {
+	display: block;
+	float: left;
+	height: 18px;
+	padding: 3px;
+}
+
+div.seperator {
+	border-bottom: solid 1px black;  
+	background-color: silver; 
+	padding: 5px;
+}
+
+div.section-head {
+	border-bottom: solid 1px black;  
+	background-color: silver; 
+	padding: 5px;
+}
+
+div.section {
+	border-bottom: solid 1px black;
+}
