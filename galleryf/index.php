@@ -17,7 +17,7 @@
 	$gallerySetting['cacheThumbnails'] = true;
 	$gallerySetting['columns'] = 5;
 	$gallerySetting['popUpMode'] = false;
-	$gallerySetting['tinyMCEURI'] = "/ali/myCMS/scripts/tiny_mce";
+	$gallerySetting['tinyMCEURI'] = "/Users/ali/Public/mycms/scripts/tiny_mce";
 	
 function placeGalleryHeader() {
 	global $gallerySetting;
